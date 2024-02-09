@@ -1,0 +1,527 @@
+Journal of Physical Education and Sport (JPES), Vol. 22 (issue 1), Art 5, pp. 38 - 46, January 2022
+online ISSN: 2247 - 806X; p-ISSN: 2247 – 8051; ISSN - L = 2247 - 8051
+MARCO OBETKO , PAVOL PERÁČEK , MARTIN MIKULIČ , MATEJ BABIC
+Department of Sports Games, Faculty of Physical Education and Sports, Comenius University in Bratislava,
+SLOVAKIA
+Department of Physical Education and Sports, Faculty of Chemical and Food Technology, Slovak University of
+Technology in Bratislava, SLOVAKIA
+Published online: January 31, 2022
+(Accepted for publication January 15, 2022)
+DOI:10.7752/jpes.2022.01005
+Abstract
+The analysis of individual game performance is a necessary part of the coach´s daily work. It can provide the
+coach with accurate and detailed information and data on the league requirements for the individual game
+performance of a player. This information is essential for the creation and optimization of the training process. In
+this study, we examined the technical–tactical profile of elite goalkeepers in professional soccer. The research
+group consisted of selected goalkeepers (n = 12) from four European soccer leagues (i.e., English, German,
+Spanish and Italian). The goalkeepers were observed at all home competition matches during the 2019/2020
+season (a total of 406 matches). We recorded and evaluated the chosen aspects of the goalkeepers´ game
+performance, i.e., the number and success rate of defensive, offensive and all game activities. To acquire
+research results, we used the method of indirect observation of chosen game activities developed by the InStat
+technologies. We used one-way ANOVA tests, the post hoc Tuckey HSD test and the Z-score test for two
+population proportions to process and evaluate the research data. The level of statistical significance was set at
+the 5% level. We found significant differences in the number of goalkeepers´ game activities and in the success
+rate of defensive and offensive game activities. We did not find any significant differences in the overall success
+rate of game activities. This research confirms trends and developments in the goalkeepers´ game and indicates
+increasing demands placed on the goalkeepers´ game. These demands are mainly regarding the success rate of
+solving game situations.
+Key words: soccer, goalkeeper, game performance, game activity, success rate, profile
+Introduction
+The player´s individual game performance is a unique phenomenon in a match, during which he
+participates
+in the game performance of the whole team and tries to help his playmates achieve their common goal.
+The individual game performance has in the match two basic forms of expression. The technical activity
+comprises all player´s game activities in a match, with which he has to deal using his abilities. It represents the
+technical-tactical demands of the match on a player and is characterized by the complexity of the training load.
+The player´s physical activity in a match is most often expressed by the load volume and intensity. It means that
+the physical activity represents the complex of demands on the player´s organism, both physically and mentally.
+It is not an easy task to assess which one of these two areas has a bigger or more significant impact on the final
+game performance of a player in a match. Several authors (Lago-Penas et al. 2010, Castelano et al. 2012, Carling
+2013, Hoppe et al. 2015, Nassis et al. 2015, Moalla et al. 2018) agreed that the technical activity in a match is for
+the player more important than the physical activity. It is so especially due to the fact that the technical activity
+and its impact on the match result can be easier quantified than the influence of physical activity on it. But we
+agree with Kokstejn and Muselaek (2019), that specific game actions (technical activity) and non-specific game
+actions (physical activity) are very deep connected to each other and have to be developed at the same time.
+Compared to other game functions, the goalkeeper position is a unique one (Konefal et al. 2019, Obetko
+et al. 2019, Obetko et al. 2020). It reflects itself significantly in his individual game performance. The physical
+and technical activity of a goalkeeper and his role on the field is quite different from the roles of other players.
+Many authors confirmed this fact in their works (Di Salvio et al. 2008, Seaton & Campos 2011, Liu et al. 2015,
+Padulo et al. 2015, Konefal et al. 2019, Schwarz et al. 2019). Obetko et al. (2019) describe it as a critical player
+function, which has a significant impact on the team´s match result too. The main and currently also the
+traditional function of a goalkeeper in match is to stop the opponent from scoring a goal. However, in recent
+years, the goalkeeper´s game has also changed and evolved as a result of a change in rules. Besides, the
+requirements for the goalkeeper´s game have changed too. It is still the case that the core function of a
+goalkeeper is to prevent the goal, but nowadays is his cooperation with teammates in the offensive game phase
+also almost as important. It has increased the demands on the goalkeeper´s game from a technical point of view
+38----------------------------------------------------------------------------------------------------------------------------------Corresponding Author: MARCO OBETKO, E-mail: marco.obetko@uniba.sk
+MARCO OBETKO, PAVOL PERÁČEK, MARTIN MIKULIČ, MATEJ BABIC
+--------------------------------------------------------------------------------------------------------------------------------------(Szwarc et al. 2010, Seaton and Campos 2011, Liu et al. 2015 Szwarc et al. 2019). These findings have to be
+reflected also in the content of the training process and his proportionality of the goalkeeper´s game activities
+during a match. Several studies confirm this fact too (Liu et al. 2015, Soares et al. 2018, White et al. 2018). The
+authors of these studies state that the current proportion of game activities within a one-year-long training cycle
+is approximately 60-70%, in favour of offensive game activities.
+Many different factors influence the final match result and the goalkeeper's individual game
+performance in a match (Wilson et al. 2019). The goalkeeper´s game is characterized mainly by decision
+making, his mentality, technical skills and physical fitness (Otte et al. 2019). In other words, the final individual
+game performance in a match is only some form of integration of these factors. If a goalkeeper wants to
+constantly improve his performance, he has to improve these factors in a training unit. In several studies proved
+the authors the impact of various training stimuli on the development of certain/specific aspects of the individual
+game performance (Chtara 2017, Karahan 2020). However, soccer as a sport is constantly developing, pushing
+the envelope, and the demands on the technical, tactical, conditional but also the psychological, level of players
+are still higher and higher (Andrzejewski 2012, Chmura 2018). Therefore, soccer and individual game
+performance nowadays requires a complex process in the development of players. It is important also in order to
+achieve the improvement of several factors of individual game performance at the same time. It can be achieved
+in a training which is oriented on solving match situations, so-called game-situation based training.
+Implementing this type of training also according to Esposito et al. (2019), we can influence the technical,
+tactical, conditional, but also the psychological aspect of the player's individual game performance. Besides, this
+way we can affect the activity factors of team game performance too. To apply this type of training into the
+training plan, we have to know the personality of the concrete goalkeeper, but also the requirements of a league
+on his game performance. For this purpose, we use the diagnostics of individual game performance.
+Analysis of individual game performance is nowadays seen as a necessary tool for the coach while
+doing his job. Relevant data gained using modern software shows us the demands which are put on the player in
+a match, but also reveals the strengths and weaknesses of his playmates and opponents. It also helps by the
+planning and the possible adjustments of the training process in order to increase the performance level of
+players (Bradley et al. 2013, Clemente et al. 2013, Arruda et al. 2015, Sannicandro et al. 2016, Filetti et al. 2017,
+Pascual-Verdú & Carbonell-Martínnez 2018, Konefal et al. 2019, Szwarc et al. 2019, Zhou et al. 2020). The
+coach always tries to increase the performance level of his players. The indicator of a trend in a certain area
+should always be the best players in the given player positions, ideally in the best long-term leagues in Europe,
+or in the world and the above mentioned leagues certainly belong to these. Professional soccer teams in Europe
+are at the same level and there are minimal differences between the best teams. Therefore, we assume that
+between the observed goalkeepers there will be no significant differences regarding the monitored indicators of
+individual game performance.
+Material & methods
+Characteristics of the research group
+The research group was comprised of selected goalkeepers (n = 12) from the 4 top European leagues English Premier League, Spanish Primera División, German Bundesliga and Italien Serie A. From each league,
+we selected goalkeepers (n = 3) who were monitored in all matches of the 2019/2020 season in which they
+played. We chose goalkeepers who achieved in the season, according to the Instat software, the best ranking –
+Instat index in their league. Goalkeepers included in this research group had to play in a minimum of 20 matches
+in the season.
+The average age of monitored goalkeepers was 28.5 3.94 years. The average height of the monitored
+goalkeepers was 191.42 3.99 cm and the average weight was 89.1 3.4 kg.
+Data acquisition and processing
+To acquire the research data, we used the indirect monitoring of match video recordings by the Instat technology.
+In our research, we focused on the following aspects of the goalkeeper´s individual game performance:
+ Total number and success rate of goalkeeper´s game activities
+ Number and success rate of defensive and offensive game activities of goalkeeper
+The goalkeeper´s game activities were divided according to the adjusted/changed methods (Babic & Holienka
+2019) and the InStat software into the following categories:
+ Offensive game activities
+ Defensive game activities
+Individual game activities were evaluated according to the video recording (electronic data carrier) using signs
++/- into prepared record sheets based on the adjusted methods (Babic & Holiennka). The number of matches was
+not the same because we monitored the goalkeepers in all the soccer matches, they played in the season
+2019/2020.
+The English Premier League goalkeepers were observed in 102 matches, the Spanish Primera División
+goalkeepers in 108 matches, the goalkeepers of Italian Serie A in 100 matches and the German Bundesliga
+goalkeepers in 96 matches.
+---------------------------------------------------------------------------------------------------------------------------- 3
+www.efsupit.ro
+MARCO OBETKO, PAVOL PERÁČEK, MARTIN MIKULIČ, MATEJ BABIC
+--------------------------------------------------------------------------------------------------------------------------------------Statistical evaluation of data
+By the monitored goalkeepers, we evaluated the differences in the following game performance
+indicators: the number of all game activities, the success rate of all game activities, the number of defensive
+game activities, the success rate of defensive game activities, the number of offensive game activities and the
+success rate of offensive game activities. To verify the hypothesis, in which we did not assume any significant
+differences in selected game performance indicators, we used the one-way ANOVA test (to evaluate the
+differences in the number of game activities) and the post hoc Tukey HSD test. Using the Z-score test for two
+population proportions, we evaluated the differences in the success rate of game activities. The level of statistical
+significance was set at p < 0.05.
+Results
+Fig. 1 – Comparison of the total success rate of goalkeepers´ game activities in selected European leagues
+The total success rate of game activities in observed leagues was ranged from 87.51% (English Premier League)
+to 88.49% (Italian Serie A). In the total success rate of goalkeepers´ game activities – figure 1, we did not find
+any significant differences.
+Fig. 2 – Comparison of the success rate of goalkeepers´ defensive game activities in selected European leagues
+Figure 2 shows the success rate of goalkeepers´ defensive game activities in monitored leagues. The
+success rate of defensive game activities ranged from 68.86% (German Bundesliga) to 76.98% (Spanish La
+Liga). We did not find any significant differences between the English and Italian league, between the English
+and German league and between the German and Italian league in the success rate of goalkeepers´ defensive
+game activities. However, we found statistically significant differences in the success rate of defensive game
+---------------------------------------------------------------------------------------------------------------------------www.efsupit.ro
+MARCO OBETKO, PAVOL PERÁČEK, MARTIN MIKULIČ, MATEJ BABIC
+--------------------------------------------------------------------------------------------------------------------------------------activities between the English and Spanish league (z = 1.62; p  0.05), the Spanish and Italian league (z = 1.93; p
+ 0.05) and the Spanish and German league (z = 2.63; p  0.01).
+Matches
+League
+[n]
+Premier
+League
+La Liga 108
+Bundesliga 96
+Serie A 100
+Comparison
+All
+actions Premier League – La Liga
+Premier League –
+Bundesliga
+Premier League – Serie A
+La Liga – Bundesliga
+La Liga – Serie A
+Serie A - Bundesliga
+Fig. 3 - Comparison of the success rate of goalkeepers´ offensive game activities in selected European leagues
+The success rate of goalkeepers´ offensive game activities ranged from 88.97 % to 91.66 % (Figure 3).
+We did not find any significant differences between the English and German league, nor between the Spanish
+and English league in the success rate of goalkeepers´ offensive game activities. However, we found statistically
+significant differences in the success rate of offensive game activities between the Spanish and German league (z
+= 1.93; p  0.05), the Italian and German league (z= 1.71; p  0.05), the Italian and English league (z = 2.68; p 
+0.01) and the Italian and Spanish league (z = 3.46; p  0.01).
+Tab. 1 – Comparison of monitored leagues regarding the number of goalkeepers´ game activities during a match
+Number
+of
+Mean
+actions
+[n]
+3227 31.64 6.89
+3591 33.25 7.71 39.59
+3937 41.01 8.42
+3086 30.86 5.98
+Comparison of significant differences
+Means Q
+31.64 –
+2.22
+33.25
+33.25 –
+12.92 p  0.01**
+41.01
+31.64 –
+1.07
+30.86
+33.25 –
+10.70 p  0.01**
+41.01
+33.25 –
+3.30
+30.86
+30.86 –
+13.99 p  0.01**
+41.01
+The average number of game activities ranged from 31.64 (PL) to 41.01 (Bundesliga) game activities
+for a match (Table 1). Using the one way ANOVA we found significant differences between the individual
+leagues regarding the number of goalkeepers´ game activities (F = 39.50; p  0.01). Subsequently, the post hoc
+Tuckey HSD test showed us between which leagues there were statistically significant differences. We found
+significant differences in the number of goalkeepers game activities between the PL and Bundesliga (Q = 12.92;
+p  0.01), between the La Liga and Bundesliga (Q = 10.70; p  0.01) and between the Serie A and Bundesliga (Q
+= 13.99; p  0.01).
+---------------------------------------------------------------------------------------------------------------------------- 4
+www.efsupit.ro
+Stat.
+significance
+(p)
+p  0.05*
+Stat. significance (p)
+p = 0.40
+p = 0.87
+p = 0.92
+MARCO OBETKO, PAVOL PERÁČEK, MARTIN MIKULIČ, MATEJ BABIC
+--------------------------------------------------------------------------------------------------------------------------------------Tab. 2 – Comparison of the number of defensive game activities by monitored goalkeepers in selected European
+leagues
+Number
+Matches of
+League
+[n] actions
+[n]
+Premier
+League
+La Liga 108 417 3.86 1.90
+Bundesliga 96 424 4.42 2.09
+Serie A 100 499 4.99 2.18
+Comparison of significant differences
+Comparison Means Q
+3.74 –
+Premier League – La Liga
+3.86
+3.74 –
+Premier League – Bundesliga
+4.42
+3.74 –
+Premier League – Serie A
+4.99
+3.86 –
+La Liga – Bundesliga
+4.42
+3.86 –
+La Liga – Serie A
+4.99
+4.99 –
+Serie A - Bundesliga
+4.42
+In Table 2 is given the comparison of the number of goalkeepers´ defensive game activities in the
+individual monitored leagues. The average number of defensive game activities for a match ranged from 3.74 to
+4.99. Using the one-way ANOVA test we found significant differences in the number of goalkeepers´ defensive
+game activities in observed leagues (Table 2; F = 8.39; p  0.05). Then using the Post hoc Tuckey HSD test we
+found significant differences in the number of defensive game activities between the PL and Serie A (Q = 6.31; p
+ 0.01) and between the La Liga and Serie A (Q = 5.68; p  0.01).
+Tab. 3 – Comparison of the number of offensive game activities by monitored goalkeepers in selected European
+leagues
+Number
+Matches
+League of
+[n]
+actions[n]
+Premier
+2846
+League
+La Liga 108 3174 29.39 7.19
+Bundesliga 96 3513 36.59 8.09
+Serie A 100 2587 25.87 5.39
+Comparison of significant differences
+Comparison Means Q
+27.90 –
+Premier League – La Liga
+29.39
+Premier League – 27.90 –
+Bundesliga 36.59
+27.90 –
+Premier League – Serie A
+25.87
+29.39 –
+La Liga – Bundesliga
+36.59
+29.39 –
+La Liga – Serie A
+25.87
+25.87 –
+Serie A - Bundesliga
+36.59
+Table 3 represents the comparison of the number of offensive game activities in the individual leagues.
+Using the ANOVA test we found statistically significant differences in the number of offensive game activities
+between the selected leagues (F = 44.93; p  0.05). The results from the Post hoc Tuckey HSD test showed
+significant differences in the number of offensive game activities between the PL and Bundesliga (Q = 12.74; p
+ 0.01), between the La Liga and Bundesliga (Q = 10.56; p  0.01), between the La Liga and Serie A (Q = 5.16;
+p  0.01) and between the Serie A and Bundesliga (Q = 15.71; p  0.01).
+---------------------------------------------------------------------------------------------------------------------------www.efsupit.ro
+Stat.
+Mean significance
+(p)
+3.74 1.83
+8.39 p  0.05*
+Stat. significance (p)
+0.63 p = 0.97
+3.43 p = 0.07
+6.31 p  0.01**
+2.80 p = 0.20
+5.68 p  0.01**
+2.88 p = 18
+Stat.
+Mean Significance
+(p)
+27.90 6.55
+44.93 p  0.05*
+Stat. significance (p)
+2.18 p = 0.41
+12.74 p  0.01**
+2.98 p = 0.15
+10.56 p  0.01**
+5.16 p  0.01**
+15.71 p  0.01**
+MARCO OBETKO, PAVOL PERÁČEK, MARTIN MIKULIČ, MATEJ BABIC
+--------------------------------------------------------------------------------------------------------------------------------------Discussion
+This research aimed to found out which requirements put the best club leagues in professional soccer
+on the goalkeeper´s individual game performance and what is the technical-tactical profile of goalkeeper´s game
+performance in a match. Based on our results, we found that the technical-tactical profile of the goalkeeper´s
+individual game performance has been during recent years moving towards the dominance and superiority
+of goalkeeper´s offensive game activities over the defensive ones (De Baranda 2008, Liu et al. 2015,
+Berto & Magalhaes 2017, Serrano et al. 2018, West 2018). This trend of recent years was shown also in our
+research. Peráček et al. (2008a, 2008b) analysed the goalkeeper´s game performance in significant international
+matches and 2005/2006 seasons of the Champions League and found that the ratio of goalkeeper´s offensive
+game activities to the defensive game activities is approximately 50:50 %. On the contrary, in our research
+dominated in goalkeeper´s game performance the offensive game activities to the defensive ones in a ratio of
+approximately 75-80%.
+When comparing this trend with the near past time, it is quite similar. However, compared to the past,
+the difference is in the number of game activities (Serrano et al. 2018, West 2018). There is a moderate increase
+in the number of game activities, which the goalkeepers perform during a match. In all matches that we
+monitored in our research (406), we recorded by goalkeepers the total number of 13841 game activities, which
+on average represents 34 game activities per match. Moreover, we recorded significant differences in the number
+of goalkeepers´ game activities among the individual leagues. But these data and facts do not show us the
+relevant differences in the number of game activities of a goalkeeper. The differences in the number could be
+especially seen when we would monitor the goalkeepers´ defensive and offensive game activities in a match
+separately. The number of offensive game activities by goalkeepers is over the years decreasing. While during
+the European Championships in 2012 was by the tournament finalists recorded an average of 16.33 shots per
+match (Shafizadeh et al. 2013), in the Bundesliga (2014-2017) recorded Konefal et al. (2019) an average of 7.58
+shots per game, which is 54% less than the average of the 2012 European Championship finalist. Serrano et al.
+(Serrano et al. 2018) also recorded in their analysis of six consecutive years (between 2011 and 2017) of the
+Spanish La Liga a decrease in the number of goalie interventions.
+In the last monitored 2016/2017 season, there were even only three defensive game activities on
+average per match. One of the reasons for this case is that teams get to a smaller number of finishing. According
+to De Baranda et al. (2008), only about 4% of all offensive game phases are finished by shooting into the goal.
+Therefore, the number of goalkeepers´ interventions is lower than in the past. On the other hand, the number of
+offensive game activities by the goalkeeper increases. Especially when speaking about short and medium
+distance passes. This trend was confirmed by several authors, who analysed the number of passes in the German
+Bundesliga (Konefal et al. 2019), Spanish La Liga (Serrano et al. 2018) or English Premier League (Bush et al.
+2015). They found that the number of passes in individual player functions, including goalkeepers, is constantly
+increasing. In the English Premier League, the number of passes in some player positions increased by 50 to
+70% (Bush et al. 2015). They found that the number of passes in individual player functions, including
+goalkeepers, is permanently increasing. The number of ball passes in the English Premier League increased in
+some player positions from 50 to 70% (Bush et al. 2015). According to West (2018), this is because of the
+philosophy change, or rather the change in the team game style, which means that the goalkeepers are required to
+be more involved in the offensive phase of the game. We agree with this fact. It is confirmed also by the
+conclusion of the study by Liu et al. (2015). They found by the monitoring of the Spanish La Liga goalkeepers in
+the 2012/2013 season that the number of offensive game activities was an average of 20 activities per match. In
+our research, we found an overall average of 30 offensive activities per game, which was the same results as by
+the Spanish La Liga. This is proof that significant differences have emerged over the years and that there are
+differences not only over the years, but according to Wang and Qin (2020) there are significant differences in
+technical activity between different leagues.
+As the number of goalkeeper´s game activities is getting smaller, almost every game situation in a
+match can be for the team critical. That´s why the requirements for the quality, or the success rate during the
+performance of defensive game activities, considerably increase. Therefore, the main role of the goalkeeper in
+the match comes to the fore. Despite certain trends, it has still not changed over the years. His role is primarily to
+stop the opponent from scoring a goal. Although the main goalkeeper´s task is to prevent the opposing team from
+scoring a goal, we cannot ignore the trends and tendencies in this sphere. We found that in recent years there has
+been not only a strong increase in the number of offensive game activities, but especially an important increase
+in the quality of their implementation. This can be seen when comparing the Spanish La Liga goalkeepers´
+success rate of offensive game activities in the 2012/2013 season, in which they achieved a success rate of
+58.9% (Liu et al. 2013). In their further research, Serrano et al. (2018) found that in the Spanish La Liga
+increased (between 2011 and 2017) goalkeepers´ success rate from 63% to 77%.
+In our research, we recorded the success rate of offensive game activities of the Spanish La Liga
+goalkeepers at the level of 88.97% and the overall success rate of goalkeepers´ offensive game activities in all
+monitored leagues was at the level of 90.87%. This is a significant improvement that West (2018) attributes to
+the change in the demands on the goalkeeper's game due to the change in the philosophy and game performance
+of the team, to which all player functions had to be adapted, not just the goalkeeper's function. These new
+---------------------------------------------------------------------------------------------------------------------------- 4
+www.efsupit.ro
+MARCO OBETKO, PAVOL PERÁČEK, MARTIN MIKULIČ, MATEJ BABIC
+--------------------------------------------------------------------------------------------------------------------------------------emands were reflected in the work of Barnes et al. (2014), who found that the number of players in the English
+Premier League, who have a pass success rate below 70%, fell between 2006 and 2013 from 26% to 9%.
+However, if we compare the goalkeeper´s individual game performance from a complex point of view,
+we will find that between the individual leagues that we observed in our research, we did not find any significant
+differences in the overall success of the goalkeepers´ game activities. The table of top European and world
+players in this player function is very wide and there are only minor differences between them, which are based
+on a comprehensive analysis not evident.
+Conclusion
+Only accurate data on sports science can provide us with answers to the questions regarding the
+demands of the game on the team game performance and the individual performance of players. Nowadays, the
+list of the world's top players in Europe is very wide and the differences between the individual leagues are
+minimal. Therefore, a comprehensive and detailed analysis is needed to reveal the individual specifics,
+differences and demands on individual game performance. It serves not only for coaches to find out the
+requirements but also as a tool for creating and optimizing the training process.
+Using a comprehensive analysis of the individual game performance of goalkeepers, we did not find
+any significant differences in the most important aspect of the goalkeeper's game, thus the success rate of
+performing game activities. To identify the differences and subtle specifics, we deepened the analysis and
+performed a more detailed analysis of the goalkeeper's performance based on selected aspects of game
+performance. During the elaboration of this in-depth analysis, we managed to find significant differences in the
+success rate of game activities (defensive - offensive) but especially in the number of game activities, as we
+found significant differences between individual leagues.
+Based on the acquired results, we can say that even though there are only small differences between the
+goalkeepers of different leagues on a professional level, from a complex and global point of view are the
+differences minimal, and above all, the demands on the goalkeeper's game are constantly increasing, especially
+in terms of the success rate of game activities.
+Acknowledgments
+This study was supported by grant UK/287/2021.
+References
+Andrzejewski M., Chmura J., Dybek T. & Pluta B. (2012). Sport exercise capacity of soccer players
+at different levels of performance. Biology of Sport,29(3), 185-191. ISSN 2083-1862.
+Arruda A. F., Carling C., Zanetti V., Aoki M. S., Coutts A. J. & Moreira A. (2015). Effects of a very congested
+match schedule on body-load impacts, accelerations, and running measures in youth soccer players.
+International Journal of Sports Physiology and Performance,10(2), 248-252. ISSN 1555-0273.
+Babic M. & Holienka M. (2019) Systematika herných činností brankára vo futbale. Telesná výchova
+& šport,29(4), 15-29. ISSN 1335-2245.
+Barnes C., Archer D. T., Hogg B., Bush M. & Bradley P. S. (2014). The evolution of physical and technical
+performance parameters in the English Premier League. International Journal of Sports Medicine,35(13),
+1095-1100. ISSN 0172-4622.
+Berto E. & Magalhaes F. (2017). Quantitative analysis of the football goalkeeper`s actions. Revista Brasileira de
+Futsal e Futebol,9(34), 273-281. ISSN 1984-4956.
+Bradley P. S., Lago-Penas C., Rey E. & Gomez Diaz A. (2013). The effect of high and low percentage ball
+possession on physical and technical profiles in English FA Premier League soccer matches. Journal
+of Sports Science,13(12),1261-70. ISSN 2332-7839.
+Bush M., Barnes C., Archer D. T., Hogg B. & Bradley P. S. (2015). Evolution of match performance parameters
+for various playing positions in the English Premier League. Human Movement Science,39(1), 1-11. ISSN
+1872-7646.
+Carling C. (2013). Interpreting physical performance in professional soccer match-play: should we be more
+pragmatic in our approach? Sports Medicine,43(8):655-63. ISSN 2198-9761.
+Castellano J., Casamichana D. & Lago C. (2012). The Use of Match Statistics that Discriminate Between
+Successful and Unsuccessful Soccer Teams. Journal of Human Kinetics,31,139-47. ISSN 1640-5544.
+Chmura P., Konefał M., Chmura J., Kowalczuk E., Zajac T., Rokita A. & Andrzejewski M. (2018). Match
+outcome and running performance in different intensity ranges among elite soccer players. Biology
+of Sport,35(2):197-203. ISSN 2083-1862.
+Chtara M., Rouissi M., Haddad M., Chtara H., Chaalali A., Owen A. & Chamari K. (2017). Specific trainability
+in elite young soccer players: efficiency over 6 weeks` in-season training. Biology
+of Sport,37(2),137-148. ISSN 2083-1862.
+Clemente F. M., Couceiro M. S., Martins F. M., Ivanova M. O. & Mendes R. Activity profiles of soccer players
+during the 2010 world cup. Journal of Human Kinetics,38. 201-11. ISSN 1640-5544.
+---------------------------------------------------------------------------------------------------------------------------www.efsupit.ro
+MARCO OBETKO, PAVOL PERÁČEK, MARTIN MIKULIČ, MATEJ BABIC
+--------------------------------------------------------------------------------------------------------------------------------------De Baranda P. S., Ortega E. & Palao J. M. (2008). Analysis of goalkeepers` defense in the World Cup
+in Korea and Japan in 2002. European Journal of Sports Sciene,8(3):127-134. ISSN 1746-1391.
+Di Salvo V., Benito P. J., Calderon F. J., Di Salvo M. & Pigozzi F. (2008) Activity profile of elite goalkeepers
+during football match-play. Journal of Sports Medicine and Physical Fitness,48(4),443-6. ISSN 00224707.
+Esposito G., Ceruso R. & D’elia (2019). The importance of a technical-coordinative work with psychokinetic
+elements in the youth sectors of soccer academies. Journal of Physical Education
+and Sport,19(suppl. 5), 1843-1851. ISSN 2247-8051.
+Filetti C., Ruscello B., D’Ottavio S. & Fanelli V. (2017). A Study of Relationships among Technical, Tactical,
+Physical Parameters and Final Outcomes in Elite Soccer Matches as Analyzed by a Semiautomatic Video
+Tracking System. Perceptual and Motor Skills, 124(3),601-20. ISSN 0031-5125.
+Hoppe M. W., Slomka M., Baumgart C., Weber H. & Freiwald J. (2015). Match Running Performance
+and Success Across a Season in German Bundesliga Soccer Teams. International Journal of Sports
+Medicine,36(7), 563-6. ISSN 0172-4622.
+Karahan M. (2020). Effect of skill-based training vs. small-sided games on physical performance improvement
+in young soccer players. Biology of Sport,37(3),305-312. ISSN 2083-1862.
+Köklü Y., Sert Ö., Alemdaroglu U. & Arslan Y. (2015). Comparison of the physiological responses
+and time-motion characteristics of young soccer players in small-sided games: The effect of goalkeeper.
+Journal of Strength and Conditiong Research,18(1):327-334. ISSN 1064-8011.
+Kokstejn J. & Musalek M. (2019). The relationship between fundamental motor skills and game specific skills in
+elite young soccer players. Journal of Physical Education and Sport,19(suppl. 1), 249-254. ISSN 22478051.
+Konefał M., Chmura P., Zając T., Chmura J., Kowalczuk E. & Andrzejewski M. (2019) Evolution
+of technical activity in various playing positions, in relation to match outcomes in professional soccer.
+Biology of Sport,36(2),181–9. ISSN 2083-1862.
+Lago-Penas C., Lago-Ballesteros J., Dellal A. & Gomez M. (2010). Game-Related Statistics that Discriminated
+Winning, Drawing and Losing Teams from the Spanish Soccer League. Journal of Sports Science and
+Medicine,9(2),288-93. ISSN 1303-2968.
+Liu H., Gómez M. A. & Lago-Penas C. (2015). Match performance profiles of goalkeepers of elite football
+teams. International Journal of Sports Science and Coaching, 10(4),669-682. ISSN 1747-9541.
+Moalla W., Fessi, M. S., Makni E., Dellal A., Filetti C., Di Salvo V. & Chamari, K. (2018) Association
+of Physical And Technical Activities With Partial Match Status In A Soccer Professional Team. Journal
+of Strength and Conditioning Research,32(6),1708-1714. ISSN 1064-8011.
+Nassis G.P., Brito J., Dvorak J., Chalabi H. & Racinais S (2015). The association of environmental heat stress
+with performance: analysis of the 2014 FIFA World Cup Brazil. British Journal of Sports
+Medicine,49(9),609-13. ISSN 1473-0480.
+Obetko M., Babic M. & Peracek P. (2019). Changes in disjunctive reaction time of soccer goalkeepers
+in selected training load zones. Journal of Physical Education and Sport, 19(suppl. 2),420-6. ISSN 22478051.
+Obetko M., Peracek P., Mikulic M, & Babic M. (2020). Effect of selected types of warm-up on disjunctive
+reaction time of soccer goalkeepers. Journal of Physical Education and Sport, 20(4),1903-08. ISSN 22478051.
+Obetko M., Peracek P., Sagat P. & Mikulic M. (2019). Impact of age and agility performance level
+on the disjunctive reaction time of soccer goalkeepers. Acta Facultatis Educationis Physicae Universitatis
+Comenianae, 59(2), 224-38. ISSN 2585-8777.
+Otte F., Millar S. & Huttermann S. (2019). How does the modern football goalkeeper train? An exploration of
+expert goalkeeper coaches` skill training approaches. Journal of Sports Medicine,13(July), 1-9. 00904201.
+Padulo J., Haddad M., Ardigo L. P., Chamari K. & Pizzolato F. (2015) High frequency performance analysis of
+professional soccer goalkeepers: A pilot study. Journal of Sports Medicine and Physical
+Fitness,55(6),557-62. ISSN 0022-4707.
+Pascual-Verdú N. & Carbonell-Martínez J. (2018). Analysis of technical and tactical principles in women’s
+soccer. Journal of Physical Education and Sport,18(3), 1488-1494. ISSN 2247-8051.
+Peracek P., Hrnciarik P. & Kostolansky A. (2008a). Hodnotenie herného výkonu brankára. Futbalovy
+Magazin,16(9), 18-21. ISSN 1335-4914.
+Peracek P., Hrnciarik P. & Kostolansky A. (2008b). Hodnotenie herného výkonu brankára. Futbalovy
+Magazin,16(10), 18-21. ISSN 1335-4914.
+Sannnicandro I., Cofano G. & Rosa A. (2016). Heart rate response comparison of young soccer plyers
+in “cage” small-sided and 8vs8 games. Journal of Physical Education and Sport,16(4), 1122-1127. ISSN
+2247-8051.
+Seaton M. & Campos J. (2011). Distribution competence of a football clubs goalkeepers. International Journal
+of Performance Analysis in Sport,11(2),314-324. ISSN 1474-8185.
+---------------------------------------------------------------------------------------------------------------------------- 4
+www.efsupit.ro
+MARCO OBETKO, PAVOL PERÁČEK, MARTIN MIKULIČ, MATEJ BABIC
+--------------------------------------------------------------------------------------------------------------------------------------Serrano C., Paredes-Hernandez V., Sanchez-Sanchez V., Gallardo-Perez J., Silva R. D., Porcel D., Colino E.,
+Garcia-Unanue J. & Gallardo L. (2018). The team`s influence on physical and technical demands of elite
+goalkeepers in La Liga: a longitudinal study in professional soccer. Research in Sports Medicien,26(4),
+1-15. ISSN 1543-8627.
+Shafizadeh M., Taylor M. & Penas C. L. (2013). Performance consistency of international soccer teams
+in euro 2012: a time series analysis. Journal of Human Kinetics,38, 213-226. ISSN 1640-5544.
+Soares V.N., Cren Chiminazzo J. G., Bergonsi J. T., Fernandes P. T. (2018). Analysis of the technical actions of
+a football goalkeeper: A preliminary study. Revista Brasileira de Futsal e Futebol,10(38),307-13. ISSN
+1984-4956.
+Szwarc A., Jaszczur-Nowicki J., Aschenbrenner P., Zasada M., Padulo J. & Lipinska P. (2019). Motion analysis
+of elite Polish soccer goalkeepers throughout a season. Biology of Sport,36(4),357–363. ISSN 2083-1862.
+Szwarc A., Lipinska P. & Chamera M. (2010). The Efficiency model of goalkeeper`s actions in soccer. Baltic
+Journal of Health and Physical Activity,2(2),132-8. ISSN 2080-9999.
+Wang S. & Qin Y (2020). Differences in the match performance of Asian women’s football teams. Journal of
+Physical Education and Sport,20(suppl. 3), 2230-2238. ISSN 2247-8051.
+West J. (2018). A review of the key demands for a football goalkeeper. International Journal of Sports Science
+and Coaching,13(6), 1215-1222. ISSN 1747-9541.
+White A., Hills S. P., Cooke C. B., Batten T., Kilduff L. P., Cook C. J., Roberts C. & Russell M. (2018). Matchplay and performance test responses of soccer goalkeepers: A review of current literature. Sports
+Medicine,48(11),2497-2516. ISSN 2198-9761.
+Wilson R. S., Smith N. M. A., Santiago P. R. P., Camata T., Ramos S. D. P., Caetano F. G., Cunha S. A., Souza
+A. P. S. D. & Moura F. A. (2018). Predicting the defensive performance of individual players in one vs.
+one soccer games. Plos One,13(12),1-13. ISSN 1932-6203.
+Zhou C. H., Gómez M-Á. & Lorenzo A. (2020). The evolution of physical and technical performance parameters
+in the Chinese Soccer Super League. Biology of Sport,37(2):139-145. ISSN 2083-1862.
+---------------------------------------------------------------------------------------------------------------------------www.efsupit.ro

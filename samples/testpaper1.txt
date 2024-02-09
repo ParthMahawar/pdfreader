@@ -1,0 +1,234 @@
+Chord length, 20.3 cm
+Actuation frequency, Hz
+Reduced frequency, f · c/U
+Reynolds number based on c
+Freestream velocity
+Angle of attack, degrees
+Low Reynolds number effects are significant in the aerodynamics of low speed airfoils, aircraft intended to operate
+in low-density environments, and small scale lifting surfaces
+such as insect and bird wings. Current aerodynamic applications include Micro Aerial Vehicles and Unmanned Aerial
+Vehicles (µAVs and UAVs), as well as aircraft operating
+at high altitudes or low density atmospheres other than
+Earth’s.
+The primary difficulty with the operation of a wing at
+low Reynolds number is that the flow over the suction surface encounters an adverse pressure gradient at a point at
+which the boundary layer is quite likely to still be laminar.
+Since a laminar boundary layer is incapable of negotiating
+any but the slightest adverse pressure gradient, the flow will
+inevitably separate. The separated flow then transitions to
+turbulence, entrains fluid and re-attaches to form a turbulent boundary layer. The resulting structure is the laminar
+separation bubble, which has been described by Lissaman.
+A number of different flow control approaches have been
+investigated to reduce separation and improve efficiency at
+low Reynolds numbers. Continuous blowing and sucking
+have long been shown to have pronounced effects. More
+recently, intermittent blowing and sucking in the form of
+synthetic jets have shown their effectiveness, and suggest the
+presence of optimum values in the range of frequency inputs,
+which may translate to other oscillatory inputs. Mechanical momentum transfer and acoustic excitation have also
+been explored.
+The approach presented herein employs an adaptive
+wing. Naturally, all practical wings are adaptive in the
+sense that they use actuators to alter lift coefficient by
+changing effective profile with a subsequent loss in efficiency.
+A truly adaptive wing, however, refers to an airfoil which
+can change its profile to optimally adapt to flow conditions.
+Similar concepts have been explored in the past, such as the
+snap-through airfoil which changes local airfoil camber by
+moving a flexible portion of the pressure surface, or the
+DARPA smart wing which uses torsional elements to twist
+the wing. Modern smart materials such as piezoelectric actuators offer great promise in the area of future stall control
+applications, though simple mechanisms such as buzzing
+bars have also been shown to be adequate stall control devices. The kind of adaptation which is of primary interest
+here is one in which the rate of actuation is rapid, and may
+be able to respond quickly enough to arrest or limit the
+formation of laminar separation bubbles. At high Re, the
+unsteady theory of Theodorsen may be utilized to solve
+such problems (see Duffy et al. for an example), but at
+low Re where viscous forces are predominate, there is no rigorous method to predict the unsteady effects of such rapid
+actuation and how it will alter separation.
+The adaptive wing design is based upon a static prototype
+design constructed by Pinkerton and Moses as a feasibility
+test for drag reduction. A modular wing was constructed
+with a base profile of a NACA 4415. Each module has a
+recess cut in the upper surface, into which a piezoelectric
+actuator is placed. The actuators are mounted at such an
+angle that they are even with the un-recessed airfoil section
+when at their smallest effective radius (when most curved).
+A thin plastic sheet is then placed over the actuator to
+smooth the profile, and then the entire assembly is wrapped
+in a latex membrane to hold it together and provide a seamless outer surface. When the actuator is displaced to its
+greatest effective radius (closest to being flat) it protrudes
+through the upper cross-section. The plastic sheet and latex
+membrane smooth the upper surface increasing the effective
+camber and moving the point of maximum thickness aft.
+The device has been more fully described elsewhere.
+Experiments with a circular-arc airfoil at low Re suggest
+that an airfoil with oscillating camber will produce a higher
+lift coefficient than the same airfoil at any fixed camber setting through separation control. The present experiment
+attempts to extend this finding to airfoils of more ordinary
+and more efficient cross-section. The current experiments
+were conducted with four wing modules, assembled to form
+a wing with a chord of eight inches and a span of 13 inches
+giving an aspect ratio of 1.6. This wing was mounted in an
+8×16 inch test section in a low-speed low-turbulence wind
+tunnel. Smoke-wire flow visualization as described in Batill
+and Mueller is used to mark the outer boundary of separated flow. Displacement of the actuators was measured
+in situ with a Keyance LK-501 laser displacement sensor.
+These measurements are accurate to within ±5% at all frequencies across the range of interest.
+Flow visualization at Re = 2.5 · 10 and 5.0 · 10 clearly
+shows large separated flow over the wing with the actuator static (f = 0). This is expected at low speeds with a
+NACA 4415 profile which is not designed for low Reynolds
+number flight. When the actuator is oscillating, the size of
+the separated flow is greatly reduced. Figure 1 shows images
+of the flow visualization for Re = 2.5 · 10 at two different
+angles of attack for both uncontrolled and controlled runs
+where f = 0 and f > 0, respectively. From the recorded
+images, the size of the separated region at 70% of chord was
+measured normal to the surface of the foil by determining
+the distance from the airfoil surface to the mean location
+of the first smoke streakline. These measurements are presented in Figures 2 and 3. The instrumental error in these
+measurements amounts to ± 0.2 mm, or far less than one
+percent of chord. This is dwarfed by the statistical error,
+which can best be inferred from examining the scatter in the
+dynamic data (variation in streakline location). The overall
+error, then, is within ± 1% of chord.
+The static measurements refer to those where the actuator
+was kept in a stationary state at a number of pre-determined
+positions. For these an increase in separation as angle of
+attack increases is seen, which is what would be expected.
+An increase in separation as Reynolds number decreases is
+also seen. This is also as one would expect. The main
+purpose of the static measurements was to provide a direct
+comparison to the dynamic measurements. To that end the
+minimum size observed is the value used in Fig. 4, which
+represents a best case scenario for separated flow over an
+unactuated airfoil.
+Force and PIV measurements of the airfoil with static
+shape changes were studied at a preliminary stage using
+solid models over a range of overlapping Re corresponding to the flow visualization observations shown in Fig. 2.
+Force measurements showed that both coefficients of lift and
+drag showed a slight increase at intermediate settings of the
+actuator, with an overall decrease in L/D of 6%. Maximum
+actuator displacement also increased both lift and drag but
+with an overall increase in L/D of 2%. This was confirmed
+in the PIV measurements where it was revealed that the size
+of the separation region increased and then decreased with
+increasing static actuator position. The modest improvement in efficiency did not warrent further investigation of
+static actuator effects, however. Moment coefficients were
+not measured.
+The dynamic measurements refer to those in which the
+actuator was oscillated at a given frequency. The amplitude
+of oscillation was normalized to ± 0.2 mm measured at 0.3c.
+This represents a peak-to-peak displacement of 0.002c. For
+frequencies above 70 Hz this normalization could not be
+maintained without producing destructive sparks along the
+edges of the actuator or at the attachment points of the
+electrical leads and measurements at above this frequency
+were thus taken with reduced maximum displacement. The
+regions of normalized displacement and non-normalized displacement are noted on Fig. 3. The data is plotted in terms
+of reduced frequency, f , where frequency is normalized by
+chord length and free-stream velocity, f = f · c/U.
+Measurements at a chord-based Reynolds number of 2.5 ·
+10 show that the size of the separated flow is generally
+reduced with increasing frequency up to the point where
+normalization is lost. The measurements at α = 0 show
+a broad minimum around f = 5. The measurement at
+α = 3 may also indicate a minimum before normalization
+is lost. At higher angles of attack though, where the decrease in separation is more significant, the improvement in
+performance appears to continue up to the point of loss of
+normalization. Past this point, where the amplitude of the
+actuator oscillation diminishes, the performance of the foil
+degrades at all angles of attack. It cannot be determined
+from present data whether this increase in separation is due
+to the decreased amplitude or the increased frequency, but
+the former is suspected.
+Observations at a Reynolds number of 5.0 · 10 show no
+such degradation in performance past loss of normalization.
+In the non-normalized range the separation is in the range
+of 4 − 6% for all frequencies. In the normalized range the
+same general trend is seen where separation is reduced with
+increasing frequency. There is a possible shallow minimum
+at α = 3 and f = 3, and another at α = 6 and f = 3.
+From a more detailed analysis of Fig. 1, it can be shown
+that the point of separation remains nearly the same when
+comparing the uncontrolled and controlled cases. Since the
+region of camber oscillation is downstream of the original
+separation point, this indicates that the actutation is not
+affecting the upstream flow but rather is aiding the flow
+in navigating the adverse pressure graident in the region
+of separation, most probably by direct energization of the
+boundary layer. Note that the flow examined here is within
+the transition range (Re < 5 · 10 ). Transition can be
+located in the flow visualization images and is not observed
+to significantly change chord-wise location when the flow
+control is engaged.
+Figure 4 shows the minimum observed separation for each
+combination of α and Re for both the static and dynamic
+cases. It can be seen from this plot that the application
+of an oscillatory input holds the size of the separated flow
+to 4 − 6% of chord. This is, of course, more significant for
+the cases of higher angle of attack and for lower Reynolds
+number, where the non-actuated flow has a larger separated
+region. It remains to be seen if increasing amplitude will
+further improve performance in this range.
+Oscillating the curvature of the upper surface of a NACA
+4415 airfoil has been shown through flow visualization to
+have a pronounced effect in reducing the degree of separation over a foil at the Reynolds numbers of 2.5 · 10 and
+5 · 10 . Under these conditions the unmodified flow can separate by as much as 0.15c or more. Separation, measured at
+the 70% chord position, was held to 0.04 − 0.06c under angles of attack up to 9 by oscillating the upper surface with
+an amplitude of 0.002c and reduced frequencies f ranging
+from 0 to 11. This represents a reduction in the separated
+flow size by 30% to 60% as compared to flow over a similarly shaped static wing. This technique shows significant
+promise and it is expected that further tests will verify an
+improved efficiency in terms of L/D.
+This research was supported b Kentucky Space
+Grant Consortium.
+Lissaman, P. B. S., “Low-Reynolds-Number Airfoils,” Annual Review of Fluid Mechanics, Vol. 15, 1983, pp.
+223–39.
+Gad-el-Hak, M., Flow Control: Passive, Active, and Reactive Flow Management. Cambridge University press,
+2000.
+Amitay, M., Smith, D. R., Kibens, V., Parekh, D. E.,
+and Glezer, A., “Aerodynamic Flow Control Over an
+Unconventional Airfoil Using Synthetic Jet Actuators,”
+AIAA Journal, Vol. 39, No. 3, 2001, pp. 361–370.
+Greenblat, D., and Wygnanski, I., “Dynamic Stall Control by Periodic Excitation, Part 1: NACA 0015 Parametric Study,” Journal of Aircraft, Vol. 38, No. 3, 2001,
+pp. 430–438.
+Sinha, S. K., “Flow Separation Control with Microflexural
+Wall Vibrations,” Journal of Aircraft, Vol. 38, No. 3,
+2001, pp. 496–503.
+Jacob, J. D., “On the Fluid Dynamics of Adaptive Airfoils,” Proceedings of the 1998 ASME International
+Mechanical Engineering Congress and Exposition, Anaheim, CA, 1998.
+Duffy, R. E., Dubben, J., Nickerson, J., and Colasante, J.,
+“A Theoretical and Experimental Study of the SnapThrough Airfoil and its Potential as a High Harmonic
+Control Device,” AIAA Paper 88-0668, Jan. 1988.
+Kudva, J., Appa, K., Martin, C. A., Jardine, A.
+P., Sendeckyj, G., Harris, T., McGowan, A., and
+Lake, R., “Design, Fabrication, and Testing of the
+DARPA/Wright Lab ‘Smart Wing’ Wind Tunnel
+Model,” AIAA Paper 97-1198, April 1997.
+Seifert, A., Eliahu, S., Greenblatt, D., and Wygnanski,
+I., “Use of Piezoelectric Actuators for Airfoil Separation Control,” AIAA Journal, Vol. 36, No. 8, 1998, pp.
+1535–1537.
+Park, Y. W., Lee, S.-G., Lee, D.-H., and Hong, S., “Stall
+Control with Local Surface Buzzing on a NACA 0012
+Airfoil,” AIAA Journal, Vol. 39, No. 7, 2001, pp. 1400–
+1402.
+Theodorsen, T., “General Theory of Aerodynamic Stability and the Mechanism of Flutter,” NACA TR 496,
+1935.
+Duffy, R. E., Czajkowski, E. A., and Jaran, C., “Finite Element Approximation to Theororsen’s Solution
+for Non-Steady Aerodynamics of an Airfoil Section,”
+AIAA Paper 84-1640, June 1984.
+Pinkerton, T. L. and Moses, R. W., “A Feasibility Study
+to Control Airfoil Shape Using THUNDER,” NASA
+TM-4767, 1997.
+Munday, D., and Jacob, J. D. “Flow Control Experiments for Low-Re Adaptive Airfoils,” AIAA Paper
+2000-0654, Jan. 2000.
+Munday, D., and Jacob, J. D. “Active Control of Separation on a Wing with Conformal Camber,” AIAA
+2001-0293, Jan. 2001.
+Pern, N. J., Vortex Mitigation Using Adaptive Airfoils.
+M. S. Thesis, University of Kentucky, Lexington, Kentucky, 1999.
+Batill, S. and Mueller, T. “Visualization of Transition
+in the Flow Over an Airfoil Using the Smoke Wire
+Technique,” AIAA Journal, Vol. 19, No. 3, 1981, pp.
+340–345.
