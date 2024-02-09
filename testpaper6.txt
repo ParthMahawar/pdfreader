@@ -1,0 +1,206 @@
+irline Scheduling: ervie
+or(s): MA
+Source: Transportation Scien
+1985), pp. 127-138
+blished by: INF
+Stable U L: https:// w.jstor.org
+INFORMS
+Science
+IS F. X.
+y 1985, Vol. 19, No. 2, Air Tran
+/stable/25768168
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+is collaborating with JSTOR to digitize, preserve and extend access to Transportation
+sportation (
+paper, we present an overview of contributions to airline sched
+uling made by operations research professionals during the past
+20 years or so. The overview follows the development of airline
+quantitative optimization techniques to the recent trends toward
+participate in the "construction* and "evaluation" of schedules,
+ristics.
+n a commercial airline the flight schedule is a central element of the
+also the production plan. Given a flight schedule, a significant portion of
+costs and revenues are fixed. Optimization of the flight schedule, there
+portation system which satisfies public objectives.
+Recognizing the central nature of the schedule, OR professionals both
+within and outside of airlines have been working on the development of
+been discussed extensively in the symposia and study group meetings of
+Research Societies), a kindred society of IFORS and at other professional
+127
+society meetings. Some of the work has been published in the relatively
+been documented in internal company reports, informal reports, or not
+Much of the early work was on models which can readily be form
+general terms, such a model may be formulated as follows.
+senger origin-destination pair ("market") over the time-of-the-day
+and the day-of-the-week of the planning cycle;
+departure and arrival which maximize profits.
+Mathematical programming was thought to be the method for obtain
+ing optimal solutions. These modeling efforts were essentially an exten
+sion of the formulation by Dantzig.111
+schedules it was necessary to represent airline operations in considerable
+determining concurrent flows of passengers, cargo, aircraft, and flight
+crews through a space-time network and scheduling the aircraft mainte
+based resources, such as airport gates. It is inseparable from the market
+ing plan. Representing all this detail led to ever-increasing complexity of
+largely because computers at the time were not capable of handling the
+solving some sort of closed-form model.
+tion: its effects extend into almost every department. For another, there
+It is therefore recognized that the airline scheduling problem is best
+ulated
+airline participate. Much of the work may be handled by a computer, but
+many of the crucial decisions and choices are made by humans. Systems
+central planning department develops a draft schedule which is evaluated
+by the various operating departments in terms of feasibility and econom
+iterative process is continued until either covergence is reached or time
+Most airlines today either explicitly or implicitly have a system of this
+evolutionary process. Critical elements of the systems are
+Clear definition and allocation of responsibilities.
+Quantitative models are used throughout these systems: for construct
+ing the draft schedules and for evaluating them according to the criteria
+of the various operating departments.
+plified demand f ction; the aircraft w
+ces to schedule construction m
+previously selected. While some old m
+achine interactive environ
+ith t eir operating character
+odels are also contained in a survey o
+odels were entirely com uter based
+t in w ich t e selection of fligh
+second step determines departure times on the basis of the time-of-the
+day variability of demand and of the possible connections of flights to
+non[54]). In the third step, departure times are checked for operational
+(Loughran,151 Richter,[55'56] Etschmaier,[121 Tewinkel,1571 Struve,1531
+Which approach is best for solving the aircraft scheduling problem for
+and the market structure (density, volume and elasticity of demand). For
+approach very useful. On the other hand, an airline in a highly competi
+tive market with a demand highly sensitive to time will obtain meaning
+are the responsibility of the various operating departm
+schedule for the aspects of particular importance to it. The objective of
+and the revenues that will accrue from flying the proposed sched
+ents, each one of
+ment's operating responsibility, a change would be desirable.
+ments involves the development of relatively detailed tactical plans. The
+following operational factors are usually considered explicitly:
+5. Aircraft maintenance requirements.
+Evaluation according to each factor requires a different type of model.
+For an extensive discussion of these models we refer to Etschmaier and
+function essentially simulates the choices which passengers make in view
+ment and fares, and limited aircraft capacities. In view of the increased
+competitiveness of the airline industry, most of the more recent work
+that is actually applied by airlines is not in the public domain. Published
+ran,[5] mathaisel,[61] WAN and jowett,1621 pollack,1631 Elias,1291 buhr
+et al.,[64] Shaw,(65'66] Walker-Powell,[67] Teong,[68] and Barnard.[69]
+an airline schedule amounts to interdependent movements of aircraft,
+required to determine to what extent some disturbance of the schedule
+(e.g., through inclement weather, or through airspace congestion) prop
+Evaluation of the flight schedule in terms of cockpit and cabin crews
+Evaluation of the flight schedule in terms of ground crews and ground
+and facilities. Examples for the types of problems that have to be solved
+are the assignment of gates to aircraft, and rostering for ground crews.
+by the schedule, and given the maintenance resources that are available.
+A discussion of the interdependence that exists between the flight sched
+ule and maintenance is given in Etschmaier and Rothstein.170,711 Models
+Several airlines today have an extensive repertoire of heuristic proce
+machine interactive procedures. We expect that future work will largely
+concentrate in this direction, with numerical displays replaced by color
+Deckwitz1321). Also, there is room for the enhancement of many of the
+procedures currently in use.
+Although technologies are available for quantifyin
+is able to assimilate these phenomena with any degree of efficiency. As
+a consequence, work on airline scheduling now seems to be concentrating
+handling the very tedious arithm
+suggesting new
+To date, the role of the com
+g qualitative phenom
+etic chores involved in determining the
+solutions or alterations to existing solutions in the ligh
+puter has been rather limited and the full
+between man and comp
+underestimated. These contributions lie mainly in the conceptualization
+and formulation of the scheduling process. This by no means simple or
+evolves as well as of the desirable kind of interaction between man and
+computer. Significant work has been carried out in both areas.
+too unpredictably. At the time when the actual flight schedule is
+firmed up, most decisions about investments and resource deploy
+ment have been made and are irrevocable. The type of model which
+builds on all the available resources rather than on just the aircraft
+(b) Through various forms of discount fares, it is possible to change
+of a sizeable part of the passenger demand. New forms of demand
+to be devised. Although it can be argued that a schedule should be
+that inclusion of potential discount traffic will make a significant
+rently available are capable of either determining which stations
+mined?finding the best times for the "banks of flights." Clearly,
+uter, and there are few which employ imbedded
+there is a need for such models, but before they can be developed,
+a more thorough understanding of the dynamic nature of hubs is
+(d) The relative importance of the various factors in the cost equation
+has been changed dramatically. On one hand, the price of fuel has
+other, nondepreciated aircraft. The consequence of both is that the
+mixing aircraft of different capacities and efficiencies. This prin
+time, as in the Eastern Airlines shuttle service. The possibility of
+requirements could be included explicitly in future generations of
+the past, investment decisions such as the purchase of new aircraft
+today's environment this is no longer meaningful. What is required
+include minimization of risk. Some initial work in this direction is
+reported in Mathaisel.[38] It is clear now that risk should have been
+major carriers might have been different if risk had been consid
+tance of flexible, interactive planning systems with effective synergism
+between man and the computer.
+in the Airline's Planning Cycle," AGIFORS 10, 1970.
+7. I. Elce, "The Development and Implementation of Air Canada's Long Range
+11. R. W. Simpson, Scheduling and Routing for Airline Systems, Massachusetts
+Industrial Engineering, Systems Management Engineering and Operations
+Research, University of Pittsburgh, 1973.
+of Vehicles and Crews, The State of the Art," Comput. Opns. Res. 10 (No.
+NATO Conference, Sanderfjord, Norway, 1972.
+17. Y. Chan, "Configuring a Transportation Route Network Via the Method of
+Successive Approximation," Comput. Opns. Res. 1 (No. 1) (1973).
+19. R. Larson, State Increment Dynamic Programming, pp. 238-275, American
+20. A Levin, Some Fleet Routing and Scheduling Problems for Air Transporta
+tion Systems, MIT, ORSA Third Annual Israel Conference on Operations
+Systems, Report No. FTL R68-5, Flight Transportation Laboratory (Jan
+23. D. benbasset, Minimal Aircraft Flows in a Schedule Network with Bundles,
+unpublished Ph.D. dissertation, Dept. of Civil Engineering, Massachusetts
+Institute of Technology, 1969.
+Analyzing Supply Decision in an Airline, Publication No. 273, Department
+d'Informatique, Universite de Montreal (November), 1977.
+27. W. G. Williamson, "Computer Programs for Fleet and Schedule Planning,"
+thesis, Department of Aeronautics and Astronautics, MIT (January), 1981.
+29. A. L. Elias, The Development of an Operational Game for the U.S. Domestic
+(February), 1979.
+Flight Transportation Laboratory, Department of Aeronautics and Astron
+of Airline Schedules, Potomic Scheduling, Washington, D.C., 1978.
+34. T. Kushige, "A Solution of Most Profitable Aircraft Routing," AGIFORS 3,
+35. R. Miller, Efficiency in the Domestic Trunk Airline Industry: An Applica
+tion of Linear Programming, unpublished Ph.D. dissertation, Department
+of Economics, Princeton University, 1961.
+37. R. Miller, Domestic Airline Efficiency: An Application of Linear Program
+38. D. F. X. Mathaisel, Fleet Planning for the Air Transport Industry: Network
+Aggregation and Cell Theory, Ph.D. dissertation, Massachusetts Institute
+of Technology, Department of Aeronautics and Astronautics (December),
+Variable Demand: A Goal Programming Approach, paper submitted to the
+for Olympic Airways Fleet Assignment Problems, MIT Flight Transpor
+tation Laboratory Memorandum (October), 1983.
+No. 22, Dept. of Industrial Engineering, University of Pittsburgh, 1974.
+46. W. Swan, FA-7: 1977 Version of the Linear Programming Fleet Assignmen
+gorithm and the Port Linkage Problem, Technical Report No. 10, Depart
+51. R. J. Richardson, "An Optimization Approach to Routing Aircraft," Trans.
+52. R. W. Simpson, Computerized Schedule Construction for an Airline Trans
+portation System, MIT Flight Transportation Laboratory Report FIL R66
+57. D. teWinkel, "An Algorithm for Aircraft Scheduling in a Radial Network,"
+McDonnell Douglas Corporation Paper No. 6096, Douglas Aircraft Com
+pany (December), 1972.
+62. R. J. Wan and R. N. Jowett, Airline Schedule Model, Lockheed-Georgia
+68. T. Teong, "Route Schedule Planning System," AGIFORS 21, 1981.
+69. D. Barnard, "Aircraft Feasibility Model," AGIFORS 20, 1980.
+71. M. M. Etschmaier and M. Rothstein, Airline Maintenance and the Flight
+Forum, 1974.
+ity," AGIFORS 18, 1977.
+Scheduling," Trans. ScL 19, 107-126 (1985).
+and Maintenance Planning," AGIFORS 17, 1977.
+77. C. J. Bird, "A Branch and Bound Approach to Aircraft and Maintenance
+79. R. W. Simpson and D. F. X. Mathaisel, Automation of Airlift Scheduling

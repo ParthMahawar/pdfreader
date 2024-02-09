@@ -1,0 +1,781 @@
+In striving to improve metrics, especially to lower fuel
+consumption, weight and cost, and to reduce noise and
+emissions, the jet engine manufacturers world wide are
+continuously looking for new concepts to introduce a step
+change in the turbofan engine development. One
+promising concept having been investigated for two
+decades is, to apply a speed reduction gear on the low
+spool of a two-shaft engine between the Fan on the one
+(slow spinning) side and the LPC and the LPT on the
+other (fast spinning) side, making the configuration
+geared compared to the direct drive turbofan. By means
+of de-coupling the Fan speed from the rest of the low
+spool turbo machinery the designer gains an additional
+degree of freedom which allows him to better optimize the
+turbo machines independently.
+The general principle of geared configuration is to further
+increase bypass ratio over current designs in order to
+improve propulsive efficiency and hence thrust specific
+fuel consumption, and decrease noise and weight at the
+same time. This is achieved by reducing Fan speed and
+pressure ratio for high bypass ratio Fans, and increasing
+LPC and LPT speeds and thus keeping efficiencies high
+and stage and A/F count low. This requires some
+fundamentally new design methods and technologies on
+the component level as well. As an example the
+opportunities and challenges for the high speed LPT are
+presented in some detail. The high spool speeds result in
+high work extraction per stage and therefore low stage
+and A/F count. In addition due to the rather low stage
+loading aerodynamic losses can be kept low and
+efficiencies are high. On the other hand the high speeds
+generally cause a high Mach Number level, and the
+structural loading of the rotating hardware is very high as
+well.
+The technology required for a turbofan with a Fan drive
+gear has been progressing extensively over the last two
+decades, and significant improvements in terms of
+technology readiness have been achieved. With the
+upcoming GTF™ Engine Demonstrator’s first test run
+planned for later this year – a joint activity between P&W,
+MTU, Avio and VAC – the technology development will
+peak in a flight demonstrator in 2008.
+ADP Advanced Ducted Propfan
+ATF Altitude Test Facility
+ATFI Advanced Technology Fan Integrator
+Avio Avio Propulsione Aerospaziale
+BPF Blade Passing Frequency
+CLEAN Component Validator for Environmentally Friendly Aero-Engine
+DOC Direct Operating Cost
+EIS Entry Into Service
+FTB Flying Test Bed
+FDGS Fan Drive Gear System
+GTF™ Engine Pratt & Whitney´s Geared
+Engine
+HSS High Speed Seal
+ICAO International Civil Aviation Organization
+JB Journal Bearing
+LPC Low Pressure Compressor
+LPT Low Pressure Turbine
+MTU MTU Aero Engines GmbH
+NGPF Next Generation Product Family
+PNLT Perceived Noise Level Tone corrected
+P&W Pratt & Whitney
+SHP Shaft Horse Power
+TF Turbofan
+TRB Tapered Roller Bearing
+TSFC Thrust Specific Fuel Consumption
+VAC Volvo Aero
+VITAL Environmentally Friendly Aero Engines
+V18 Bypass Nozzle Jet Velocity
+Air traffic has been growing continuously over the last
+decades – in terms of passenger kilometer per year as
+well as in terms of the active aircraft fleet (number of
+aircrafts actively participating in air transport) – and it is
+predicted to grow further. FIG 1 shows the past and
+predicted future air traffic development.
+Air Traffic Development.
+Turbofan™
+Along with this generally positive development for the
+aviation industry there obviously come serious challenges
+for the environment (emissions), the community (noise)
+and the available fuel resources which will limit the future
+growth at some point. In an effort to minimize the
+environmental impact the politics world wide (e.g. the
+ICAO) as well as local authorities have been defining
+increasingly stringent regulation for aircraft engine
+emissions and community noise. As an example FIG 2
+shows the development in airport noise restrictions from
+1980 to 2000. A clear trend towards tighter restrictions
+can be observed, which will not only impact landing fees
+but mid-term limit an airline’s ability to use a particular
+airport. From this perspective flight noise (and hence
+engine noise contribution) is becoming an important
+economic factor for the airline as well as the airport
+region.
+. Airport Noise Restriction Development.
+Market laws of supply and demand in turn regulate the
+fuel price which has been fundamentally increasing over
+the years as well. Uncertainties in fuel price prediction are
+rather high, various scenarios range from about $ 1.3 /
+gallon (low price scenario, abundant oil and kerosene) all
+the way up to more than $ 5.0 / gallon (high price
+scenario, permanent oil crisis) with the most realistic
+scenario averaging at about $ 2.0 / gallon (mid price
+scenario, no oil shortage but high demand). Increasing
+fuel prices do not only impact cash operating cost (COC)
+in general, the share of fuel cost increases as well which
+makes fuel burn even more one of the key requirements
+for future products. Aside from the long-term increase in
+fuel price the rather short-term cyclic fluctuations due to
+political and economical events endanger the economic
+strength of airlines with inadequate aircrafts in terms of
+fuel burn.
+Driven from the continuous growth in air traffic and the
+resulting challenges for environment, community and the
+natural oil resources the requirements for the next
+generation of aircrafts and aircraft engines are very
+challenging as well. FIG 3 summarizes the major design
+objectives for the next generation turbofan engine from
+MTU’s perspective relative to the engines in-service
+today.
+Next Generation Turbofan Objectives.
+Aside from fuel burn, noise and emissions obviously the
+other metrics directly impacting COCs are as important,
+therefore time-on-wing, reliability and total maintenance
+cost can not be compromised at all.
+Meeting the requirements will be a challenge for any
+engine supplier, but MTU - together with its partners
+P&W, Avio and VAC - is convinced that the geared
+engine configuration is the favorable answer. While the
+concept provides a step change in performance,
+emissions (due to low fuel burn) and noise, it is an
+evolutionary step from the direct drive turbofan, and as a
+result does not impose unreasonable risk to the customer,
+as a more revolutionary step like the counter-rotating
+turbo machinery concept does.
+As laid out in chapter 1 one fundamental objective for the
+next generation product is to reduce mission fuel burn,
+which is largely driven by thrust specific fuel consumption
+(TSFC). Traditionally the reduction of TSFC has been
+achieved
+by improved turbine cycle thermodynamic
+efficiency or
+by improved propulsive efficiency.
+Improved cycle efficiency can be achieved by the increase
+of overall pressure ratio and peak cycle temperatures,
+which is usually limited by available materials and/or
+cooling techniques. Obviously improved component
+efficiencies are also a major contributor.
+Propulsive efficiency of a turbofan engine in turn is mostly
+dependent on bypass nozzle jet velocity V18 for a given
+flight condition. Propulsive efficiency will be high when
+V18 is low. Low V18 can be achieved by low Fan pressure
+ratio which requires a large Fan diameter for a given
+thrust demand. Therefore the Fan speed has to be
+reduced to keep Fan tip speed in a reasonable order of
+magnitude in terms of transonic losses and resulting
+efficiency. The natural outcome of applying this design
+philosophy is a high bypass ratio turbofan engine with a
+rather low flow specific thrust. The general trends of Fan
+pressure ratio and bypass ratio can be seen in FIG 4.
+. Turbofan Engine Concepts with Varying Bypass
+and Fan Pressure Ratio.
+Along with the low jet velocity V18 comes low jet noise
+(see [1] for details), and because of the correspondingly
+slow Fan speed the Fan emitted sound pressure level and
+hence noise level is low as well, at least for the ducted TF,
+the geared and counter rotating configurations. For
+dramatically increased bypass ratios and un-ducted Fan
+configurations noise becomes a serious issue. FIG 5
+shows the general trends of TSFC and noise versus flow
+specific thrust (Fan diameter, bypass ratio) for ducted
+turbofan engines.
+. Ducted Direct Drive Turbofan Noise, TSFC
+Fuel Burn Trends.
+When applying the above described concept of low flow
+specific thrust and large Fan diameter, which goes along
+with slow Fan speed, the direct drive turbofan suffers from
+increasing length, weight and cost of the other low spool
+turbo machinery (LPC, LPT). This is due to the fact that
+the LPC and LPT have to convert shaft horse power into
+work potential and vice versa at a low spool speed level,
+which requires a large number of stages and as a result a
+large A/F count. Additionally the torque transmission
+requirement for the low pressure shaft increases, while
+the maximum diameter is limited by a more and more
+reduced diameter of the core engine. FIG 5 shows the
+adverse trend of increasing Fan diameter and bypass
+ratio on fuel burn driven by the weight increase of the
+other low spool components of a direct drive turbofan.
+This problem can be overcome by de-coupling the Fan
+from the low spool speed by means of a Fan Drive
+Reduction Gear System. The FDGS allows the LPC and
+the LPT to run at higher and more appropriate speeds,
+thus reducing length, weight and cost for the same
+specific work output. Obviously this advantage comes with
+the additional weight of the FDGS itself which is more
+than offset by the reduction in LPT stages relative to a
+direct drive turbofan.
+The impact of increasing Fan diameter and bypass ratio
+on fuel burn for the geared engine configuration is shown
+in FIG 6 in addition to the directed drive curve already
+discussed in FIG 5. Compared to the direct drive the
+geared turbofan provides minimum fuel burn at higher Fan
+diameter / bypass ratio. Hence the geared turbofan
+concept is the enabler for turbofan engines with bypass
+ratios beyond today’s designs with the benefit of low
+noise, low TSFC and achieving low fuel burn at the same
+time. Therefore the geared engine configuration
+contributes significantly to achieving two of the key design
+objectives discussed in chapter 1 – low mission fuel burn
+and low noise (see also [3]).
+. The Geared Turbofan Concept as the Enabler of
+High Bypass Ratio Turbofan Engines.
+As derived from the fundamental thoughts in chapters 2.1
+and 2.2, the geared engine configuration offers the
+advantages of a high bypass ratio turbofan engine with
+correspondingly
+slow Fan speed,
+low Fan pressure ratio and bypass nozzle jet velocity,
+high propulsive efficiency and
+low Fan noise and jet noise,
+but avoids the drawbacks a direct drive high b
+ratio concept like
+low LPC and LPT efficiency and
+increased overall engine length and weight stemming
+especially from the low spool components LPC and
+LPT on the low speed level.
+IG 7 summarizes the opportunities mentioned above.
+. The Geared Engine Configuration –
+Opportunities.
+ypass
+Thus the geared engine configuration allows
+turbofan engine with
+improved (reduced) TSFC and mission fuel burn,
+reduced engine noise level,
+reduced length, weight and number of parts and
+reduced maintenance cost.
+FIG 8 shows the fuel burn and noise potentials for a
+GTF™ engine versus a direct drive turbofan concept and
+versus existing engines for the thrust class of a single
+aisle airplane application.
+he GTF Engine Concept – Metrics Potentials.
+A new concept like the GTF™ engine obviously brings
+some challenges to the table, which have to be addressed
+carefully in order to get the technology ready for the
+product application. As a matter of fact the GTF™ engine
+concept focuses on the low spool components. The high
+spool components are not different compared to those of
+the high spool of an advanced twin-spool direct drive
+turbofan engine.
+When compared to a direct drive turbofan with the same
+Fan diameter (and hence similar TSFC), the GTF™
+engine weight is significantly lower because the FDGS
+weight is easily outweighed by the long and heavy LPC
+and LPT components of the direct drive due to the
+increased stage count and size relative to the GTF™
+engine. When comparing the GTF™ engine to a lower
+bypass ratio direct drive turbofan (more the optimum
+direct drive configuration) the GTF™ engine might come
+out a bit heavier, but obviously has a significant TSFC
+benefit, see FIG 6. Relative to the direct drive the weight
+contributions from the components are quite different. For
+the GTF™ engine the Fan and LPC groups including the
+FDGS add up to a significantly higher portion of the total
+propulsion system weight, which is compensated for
+mostly by the LPT and the low shaft, see FIG 9.
+. Weight Breakdown Engine versus Direct
+Drive TF.
+The FDGS losses fundamentally impact TSFC in a
+negative manner. This is indeed a minor issue because of
+the rather high gearbox efficiency and the fundamental
+conceptual benefit in propulsive efficiency of the GTF™
+engine. Nevertheless the FDGS losses have to be kept as
+low as possible. These losses are an additional heat
+source for the oil system as well. Therefore the thermal
+management system has to be designed carefully to avoid
+oil overheating by providing sufficient cooling capacity of
+the fuel-cooled and air-cooled oil coolers. Key to success
+is obviously to reduce heat rejection as far as possible by
+minimizing FDGS losses.
+The major low spool components which n
+are
+the Fan,
+the Fan Drive Gear System,
+the high speed LPC and LPT.
+The Fan is not too different from a direct drive design. It
+features highly 3D swept aerodynamic profiles, and due to
+the lower spool speed losses are fundamentally reduced.
+As mentioned already the higher bypass ratio and higher
+Fan diameter result in a larger contribution of the Fan
+component to engine weight. Hence design methods
+and/or alternate materials (light weight aluminum,
+composites) are key to weight reduction.
+an Drive Gear System
+As with any other new or additional component to a
+propulsion system one has to be concerned about
+reliability in terms of flight safety as well as maintenance
+cost. Gearboxes have been used in engines for flight
+application for a long time. Examples include
+propeller aircraft (Tyne, TP400, PT6),
+regional aircraft (ALF 507, TFE 731) and
+helicopters (MTR390, PT6).
+Some of these engine fleets (and the gearboxes) have
+accumulated millions of flight hours over the years (e.g.
+the PT6 engine series). Initial reliability problems with
+Tyne and ALF507 (RJ85) engines were resolved and are
+being understood. FIG 10 provides an overview of P&W’s
+in service experience with reduction gearboxes in
+turboprop and turboshaft engines.
+IG 10. P&W Reduction Gearbox In Service Experience.
+d attention
+The gearbox transmitted power for the next generation
+product to power the single aisle airplanes will be higher
+than for the applications in service today. FIG 11 provides
+a comparison of the gearbox transmitted power during
+takeoff operation for a variety of engines. It shows that the
+ADP Demonstrator Gearbox and the NGPF GTF™ Engine
+Gearbox are at the high end of the applications.
+IG 11. Gearbox Transmitted Power at Takeoff
+Operation.
+The transmission power demand is one major sizing
+parameter for the FDGS and its components (gears,
+journal bearings). During the design of the gears and
+bearings themselves proven standard practice design
+methods and tools (validated and calibrated to rig and
+engine experience) as well as standard materials and
+manufacturing processes are used by our partners P&W
+and Avio. Furthermore it is made sure that the structural
+loads are in a well known design range. FIG 12 lists some
+relevant design parameters for the gears and bearings,
+and provides numbers for the NGPF application gearbox
+relative to the proven design space based on P&W’s
+reduction gearbox experience. It can be concluded that
+the gearbox design is within the limits of the known design
+space proven by several million flight hours of the PT6
+engine family and other commercial and military engines.
+IG 12. Gearbox Design Space Relative to Experience.
+Aside from using standard design practice, the key to a
+successful development of a FDGS for the next
+generation product GTF™ engine is a systematic
+technology development program including rig testing,
+engine ground and engine flight testing. MTU’s partners
+P&W and Avio have been testing planetary and star
+system gearboxes in three engine demonstrators and in
+several rig tests to date. Most of the testing was
+performed full scale in a design space of up to 40k SHP.
+Furthermore in preparation for the GTF™ Engine
+Demonstrator program P&W and Avio are carrying out a
+complete rig test program with several gearbox assets to
+investigate efficiency, fatigue, loads and deformations,
+lubrication and heat rejection under various operating
+conditions including full power and even over-speed, overtorque and over-load, various angles of attack, oil flow
+interruption and windmilling. During the upcoming GTF™
+Engine Demonstrator flight tests the journal bearings will
+be exposed to flight situations without oil supply as could
+occur in emergency situations as e.g. during zero g flight
+conditions. FIG 13 provides an overview of 20+ years of
+FDGS technology maturation, and it also shows the
+corresponding risk reduction to prepare the FDGS for the
+product application.
+IG 13. 20+ Years Of FDG Technology Maturation.
+High Speed LPC and LPT
+Both the LPC and the LPT are exposed to elevated levels
+of rotational speed and hence tip speed. This results in
+high Mach number flow, but less turning is required for the
+given specific work. Fundamentally aerodynamic
+efficiency will benefit from those conditions, but high Mach
+numbers (potentially in combination with low Reynolds
+numbers for low thrust applications) have to be handled
+carefully. The high rotational speeds on the other hand
+cause high structural loading of the rotating airfoils and
+subsequently the disks. Therefore blade and rotor design
+has to be done carefully in order to achieve well balanced
+structural loads avoiding stress peaks, otherwise the low
+stage count weight benefit will be compensated by heavy
+rotating hardware.
+A more detailed review of opportunities and challenges on
+the component level is provided in chapter 3 for the LPT.
+In general the Geared Turbofan concept is applicable to
+various aircraft sizes (business, single aisle, wide body)
+and missions (regional, mid range, long range). The
+physics based benefits over the direct drive turbofan in
+terms of noise, TSFC and fuel burn as well as engine
+length, weight and cost are valid for all applications.
+Obviously the GTF™ engine is the prime concept for
+applications focusing on low TSFC and noise and thus
+demanding for high bypass ratio engines. This is
+especially true for long range missions and wide body
+airplanes, but also for mid range single aisle airplanes
+and regional jets. Business jet applications often focus
+more on weight as an absolute metrics and compromise
+on TSFC, hence staying with lower bypass ratios where
+the direct drive turbofan is more attractive in terms of fuel
+burn and DOC.
+The maintenance cost benefits due to reduced stage and
+airfoil count of the GTF™ engine are obviously valuable
+for all applications as well.
+A potential physical limitation for all high bypass turbofan
+applications is the required ground clearance for under
+wing installation, which is more challenging because the
+GTF™ engine typically features a larger fan diameter for
+the given thrust class than the direct drive turbofan. For
+most applications including existing wide body and single
+aisle airplanes this is not a limitation though.
+Opportunities and challenges of the high speed LPT result
+from the elevated rotational speed level due to decoupling
+from the Fan speed by means of the FDGS.
+The high rotor speed allows for a significantly reduced
+stage count of the turbine for a given work extraction.
+Compared to a conventional turbine the stage count can
+roughly be cut in half at rather low aerodynamic loading
+per stage. This leads to significantly reduced airfoil count
+and part numbers over all, and therefore lowers
+manufacturing costs and reduces maintenance costs as
+well.
+FIG 14 shows the V2500 LPT and the high speed LPT of
+the technology demonstrator CLEAN which provide similar
+shaft horse power. The speed level was increased for
+CLEAN by 60% over the V2500, consequently the stage
+count was reduced from 5 to 3 stages and the blade count
+went down to 40%.
+IG 14. Reduction of Part Numbers with High Speed LPT.
+Even though the disks of the high speed LPT are much
+heavier due to elevated centrifugal loads, the overall
+design is much more compact, which leads to lower LPT
+weight in the end.
+Assuming an optimum bypass ratio for both the direct
+drive TF and the GTF™ engine, the weight of the high
+speed LPT can be reduced to about 70% of the
+conventional LPT weight. As described above the GTF™
+engine has an additional TSFC benefit. To evaluate the
+weight opportunity of the LPT due to the GTF™ engine
+concept only, a direct drive TF and a GTF™ engine with
+the same (high) bypass ratio have to be compared. In this
+case the weight of the high speed LPT can be reduced
+even further down to 60% relative to the conventional
+LPT. This potential counteracts the weight increase of the
+GTF™ engine due to other new or heavier components as
+shown in FIG 9.
+The high speed LPT achieves high specific work output by
+means of high rotational speed per stage. This allows to
+keep the aerodynamic loading ∆H/u in a reasonable
+range, which is typically on a lower level than in
+conventional turbines. Therefore efficiency levels can be
+kept high.
+Additionally the average row velocity ratio can exceed
+values of c /c ≈ 2.3, while conventional modern turbines
+are more in the range of around 1.8. This enlarges the
+area of laminar flow at the airfoil and reduces friction
+losses.
+The aerodynamic design of high speed LPTs was subject
+of a number of technology programs in the past. Detailed
+results can be found e.g. in [2] and are therefore not
+discussed in this paper any further.
+The fundamental tone frequencies (BPF) of the high
+speed LPT at landing condition (approach) are in the
+order of 7 kHz and higher. However, sound of high
+frequencies propagating through the atmosphere is highly
+attenuated. Furthermore the frequency related noisiness
+of the high speed turbine tones perceived by the human
+ear (PNLT weighing) is significantly lower. Advantageous
+for the frequency characteristic is the absence of turbine
+tones at the higher harmonics (2BPF, 3BPF etc.) even at
+approach condition enabled by a favorable choice of
+blade numbers. In consequence, the tonal turbine sound
+at higher rotational speed in terms of take-off condition is
+even more dampened or not hearable beyond the
+frequency of 10 kHz.
+The intentionally high rotor speed is very challenging for
+the mechanical turbine design and the corresponding
+turbine weight.
+FIG 15 shows the design strategy and dependencies for a
+lightweight design of a turbine stage.
+First of all a sophisticated outer shroud design is needed
+to reduce centrifugal forces for the airfoil (1). The airfoil
+itself has to carry the loads caused by the outer shroud
+and of its own tip section (2). The mass of the airfoil
+including the outer shroud defines the airfoil root (3). The
+blade (airfoil including shroud and root) defines the radial
+load of the disk on the one side (4a), and the thickness of
+the casing to contain a blade in case of a blade loss event
+on the other side (4b).
+IG 15. Dependencies for Lightweight LPT Design.
+In FIG 16 a comparison is shown between the outer
+shroud of a conventional and a high speed LPT blade. To
+reduce mass a careful cut back is necessary without
+significant spoiling of the axial and circumferential sealing
+properties (see dotted contour on the right side).
+Additionally the knife edges should be used to increase
+the stiffness of the overhanging parts of the shroud in
+order to reduce shroud curling. The axial length of the
+airfoil and the radius of the center of gravity of the outer
+shroud are two additional major parameters which impact
+centrifugal loads caused by the outer shroud. Both
+parameters affect aerodynamics though, and therefore
+can not be reduced below a certain limit without major
+efficiency loss.
+IG 16. Conventional versus High Speed Blade Outer
+Shroud Design.
+The relevant parameter for the mechanical loads caused
+by the airfoil due to centrifugal forces is AN with A as
+annulus area at the turbine stage considered, and the
+rotor speed N. These loads have to be supported by the
+airfoil itself as well as by the disk.
+The tip section of an airfoil is usually designed for
+minimum acceptable thickness with respect to castability.
+Hence a dedicated increase of cross sectional area of the
+airfoil from the tip to the root (airfoil taper) is required to
+limit the stress level in the airfoil. A high allowable mean
+stress level is highly important for controlling the blade
+weight. The acceptable mean stress level depends on the
+material properties (HCF, Creep) and on the required
+margins for local peak stresses (caused by blade shape,
+vibratory stress, local defects and tolerances). The airfoil
+root area must be optimized as well to reduce the loads at
+the outer disk rim to transfer the loads from the airfoil
+smoothly into the disk rim. Therefore root area, root angle
+and fir tree shape must be optimized. FIG 17 shows the
+typical differences between conventional and high speed
+blade design, as the cut back of the outer shroud, the
+airfoil taper and the axial length of the blades root area.
+IG 17. Conventional versus High Speed Blade Design.
+In FIG 18 the effect of the high centrifugal loads for the
+disk design is shown. In conventional designs flanges
+used to mount the disks are usually between the disks to
+have access to the nuts and screws. In high speed LPTs
+flanges and spacers must be kept close by the disks to
+limit the hoop stress in the parts as known from HPT or
+HPC design. Therefore the flanges are located close to
+the disks which adds mass to the disk web itself. To carry
+these large radial loads a broad hub on the lowest
+possible radius is needed. A smooth transition into the
+web limits the radial and the hoop stress.
+IG 18. Conventional versus High Speed Disk Design.
+Caused by high rotor speed and reduced stage count and
+therefore high pressure ratios, high flow Mach numbers
+throughout the turbine will tend to increase losses and
+decrease efficiency.
+Therefore it is beneficial to increase the flow path area
+especially in the front stages by a rather steep interturbine
+duct and a large outer annulus radius. In the rear part of
+the turbine the maximum radius of the annulus is limited
+by the nacelle line. In this area thin airfoils on a high
+stress level with low blockage are important to reduce the
+exit Mach number.
+In addition, for low thrust and high flight altitude engine
+applications the Re number is low which increases the
+tendency to flow separation. Therefore the aspect ratio of
+the airfoils should be reduced to minimize losses.
+Due to high stage pressure ratios the leakage over outer
+and inner air seals will increase. This illustrates the need
+for a careful seal design. Brush seals and floating static
+inner air seal rings help to reduce leakage significantly.
+Special endwall design helps to minimize the impact of
+the leakage to the main flow in the gas path.
+For low shaft shear events an overspeed protection
+system is required to limit the burst margin for LPT disks
+required beyond maximum normal operating speeds. If
+the shaft shear occurs upstream of the low spool thrust
+bearing, no axial shift of the low shaft and as a result of
+the LPT rotor occurs. In this case an overspeed protection
+on the system level, like a fast fuel shut-off mechanism
+(electronically or mechanically) is required. Alternatively
+this event can be excluded by definition when using prime
+reliable parts in the relevant areas.
+If the shaft shears downstream of the thrust bearing, an
+immediate axial shift of the LPT occurs. In this case a
+mechanical intermeshing system can avoid a critical
+overspeed of the rotor. Because rotor speed is much
+higher than in conventional turbines, the driving torque of
+the shaft is much lower for a given power demand. This
+torque has to be counter balanced by blade to vane
+interactions at the intermeshing location to avoid a rapid
+acceleration of the turbine. On the other hand the high
+speed LPT rotor moment of inertia and speed are
+significantly higher than in conventional turbines and
+hence the total energy of rotation is very high. This energy
+has to be dissipated during the intermeshing event into
+heat.
+As laid out in chapter 2 the GTF™ engine is the best
+suited concept to fulfill the stringent fuel burn and noise IG 20. LPT
+requirements of the next generation turbofan engine
+products at the same time. In order to prepare its
+application to a product MTU together with its partner
+companies P&W, Avio and VAC follows through a
+continuous program of technology development and
+demonstration for the last two decades. The whole scope
+of technologies from parts to module to engine level is
+addressed analytically as well as via rig test programs and
+engine demonstrators. The objective is to get the GTF™
+engine concept including all parts and module level
+technologies ready for application to a product at the
+latest by mid to end of 2008 in order to protect a potential
+next generation product Entry-Into-Service of 2012.
+For the front end of the engine P&W and Avio work
+towards maturation of various areas of technology. FIG 19
+shows an overview of the major rig test activities and how
+they feed into the GTF™ Engine Demonstrator program.
+Focus is on
+Fan and LPC aero and structures testing with
+appropriate rotational speed level and therefore aero
+and structural design space,
+mechanical systems like bearings (tapered roller
+bearings, journal bearings) and high speed seals for
+performance, endurance, oil distribution and
+interruption and misalignment, and
+the FDGS in terms of performance, durability and
+reliability.
+IG 19. Front End Technology Maturation Plan.
+MTU has been continuously working on its LPT
+technology maturation programs as well. As an example
+of the previous work ref [1] summarizes the development
+and testing of the high speed LPT for ATFI. FIG 20
+provides an overview of the technology development
+activities for the high speed LPT.
+Technology Activities.
+Main focus is on:
+advanced 3D aerodynamics (high lift airfoils, end wall
+contouring) especially for high Mach number and low
+Reynolds number applications,
+low noise designs taking into account the elevated
+blade passing frequencies due to the high speed
+design,
+light weight low density materials e
+rotating airfoils (TiAl),
+high AN blade design (high mean stress levels), and
+brush seals for reduced leakage, low deterioration
+and low maintenance cost in a high speed
+environment.
+As for the front end technologies the objective is to reach
+technology readiness for all high speed LPT required
+technologies in time to protect an EIS date of 2012. FIG
+21 shows MTU’s LPT technology maturation plan on a
+timeline. The rig test programs and the engine
+demonstrator programs complement one another in order
+mature the technologies with all aspects being
+considered.
+IG 21. LPT Technology Maturation Plan.
+Complementing the rig tests programs and taking the
+learning one step further on the systems level, MTU,P&W,
+Avio and VAC have been running engine demonstrator
+programs all along. For more than 15 years these
+companies have been partnering to demonstrate the
+benefits of the geared engine configuration with
+demonstrator engines, the most important and successful
+ones being
+(cid:127) the Advanced Ducted Propfan (ADP) in 1993,
+the Advanced Technology Fan Integrator (ATFI) in
+2001, and
+the European Technology Program CLEAN in
+see [4].
+FIG 22 shows the ADP and the ATFI engines which have
+covered the takeoff thrust range of 13 klb up to 50 klb.
+The ADP has featured an MTU high speed LPC and LPT
+and completed sea-level tests at P&W’s Florida facility as
+well as altitude tests at NASA Ames’ ATF in 1993. The
+ATFI build 1 has featured an MTU high speed LPT which
+was successfully tested in a low spool dedicated engine
+test at P&W Canada’s sea-level test bed in 2001.
+The next step in this continuous line of geared engine
+technology demonstrator engines is the GTF™ Engine
+Demonstrator program which is going to test towards the
+end of 2007, see FIG 22. This engine will be designed for
+the thrust class of engines for the NGPF airplanes.
+Compared to the demonstrator programs so far the
+upcoming GTF™ Engine Demonstrator program will be
+the first one to include flight tests, hence taking all the
+specially f
+aircraft/engine installation and integration aspects into
+account.
+IG 22. Geared Engine Configuration Demonstrators
+As mentioned above the GTF™ Engine Demonstrator will
+be the first flight test demonstrator program of the GTF™
+engine concept by the involved partner companies P&W,
+MTU, Avio and VAC. This will take the technology
+maturation from the engine level to the propulsion system
+level, which we consider to be a very significant milestone
+on our journey to technology readiness of the GTF™
+engine concept.
+The program is lead by P&W as the partner being
+responsible for the low spool compressors, Fan Diffuser,
+HPT, system design and component integration as well as
+for all interfaces to the test beds including the flying test
+bed aircraft. In addition significant partner participation is
+ensured by MTU (HPC and LPT), Avio (FDGS), VAC
+(TEC) and Goodrich (Nacelle). FIG 23 shows the partner
+participation for the major components.
+2004,
+IG 23. GTF Engine Demonstrator –
+The engine is comprised from the PW6000 core, the
+CLEAN LPT and TEC adapted to the PW6000 inter
+turbine duct, and an all new front end including a high
+bypass ratio low pressure ratio Fan, a high speed LPC
+and a Fan Drive Reduction Gear System.
+Partnership.
+The program timeline foresees target-to-fire in November
+2007 at the P&W ground test facility in Florida, USA.
+Subsequently the engine will be installed on a P&W
+owned FTB (Boeing 747) in New York State, USA, flight
+tests are scheduled for 2008. The program is intended to
+demonstrate technology readiness for the GTF™ engine
+concept by end of 2008, see FIG 19.
+The engine’s test program will focus on key learning
+which has not yet been achieved in the previous
+demonstrator programs. The FTB will especially provide
+learning for
+the in-flight performance and operability including
+extreme operating conditions as e.g. windmilling and
+windmill relights, and
+the functionality and performance of the FDGS and
+the thermal management system under real flight
+conditions including zero-g, windmilling, windmill
+relight, maneuver loads and deflections.
+Furthermore the tests will provide significant insight into
+the aircraft/engine installation and integration aspects
+which can only be learned once the real aircraft/engine
+integration is executed. The upfront ground tests allow for
+detailed acoustics tests as well as for system functionality
+checks and check-out of the engine for flight.
+In a world of continuously growing air traffic the demand
+for environmentally friendly aircraft engines is strong.
+Market requirements focus on emission and noise
+reduction, but also on purely economically driven
+objectives like fuel burn and TSFC caused by the
+increasingly high fuel prices, and production and
+maintenance cost.
+The geared turbofan is the only turbofan engine concept
+which allows significant reduction in fuel burn,
+maintenance cost and noise at the same time, and which
+will be technology ready near-term to support EIS dates
+the aircraft manufacturers and airline customers are
+envisioning. While the ducted counter-rotating Fan engine
+architectures are promising in terms of TSFC and fuel
+burn, their technology readiness is more than one decade
+away. Open rotor concepts (un-ducted Fans) are likely to
+provide even higher TSFC and fuel burn benefits, but are
+struggling with achieving noise requirements as we
+understand them today, and are likely to require dramatic
+changes in terms of engine/airframe integration. Hence
+the GTF™ engine is THE best concept for the demands of
+the market.
+In order to mature the geared engine configuration
+technology MTU and its partners P&W, Avio and VAC
+have been following through a series of technology
+development programs on the parts, module and system
+level for the last two decades. The efforts include rig
+testing as well as engine system ground testing, as e.g.
+during ADP, ATFI and CLEAN programs. The current
+GTF™ engine demonstrator program is the next logical
+step taking technology maturation to the propulsion
+system level by a flight test demonstrator. Based on these
+activities the GTF™ engine concept is going to achieve
+technology readiness in 2008 to support a next generation
+product EIS date as early as 2012.
+The authors would like to thank the companies MTU Aero
+Engines GmbH and Pratt & Whitney for the permission to
+publish this document.
+Special thanks go to the MTU team within MTU’s
+advanced programs organization, which performed the
+recent high speed LPT conceptual design studies.
+Furthermore the support of Pratt & Whitney’s program
+and engineering leadership team for the next generation
+product family is gratefully acknowledged.
+] D. Crichton, E. de la Ros Blanco, T. R. Law, J. I.
+Hileman, 2007,
+Design and Operation for ultra low noise takeoff,
+AIAA 2007-0456.
+] F. J. Malzacher, J. Gier, F. Lippl, 2003,
+Aerodesign And Testing Of An AeroMechanically Highly Loaded LP Turbine, ASME GT2003-38338.
+] J. S. Sabnis, 2005,
+Emissions and Noise – Next Frontier For Aircraft
+Engine Technologies, presented at the AIAA/AAAF
+Aircraft Noise and Emissions Reduction Symposium,
+Monterey, California, USA.
+] G. Wilfert, B. Kriegl, H. Scheugenpflug, J. Bernard, X.
+Ruiz, S. Eury, 2005,
+CLEAN – Validation of a High Efficient Low NOx core,
+a GTF™ Engine High Speed Turbine and an
+Integration of a Recuperator in an Environmental
+Friendly Engine Concept, AIAA – 2005 – 4195.

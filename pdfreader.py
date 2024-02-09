@@ -6,13 +6,14 @@ from collections import Counter
 from sklearn.cluster import DBSCAN
 import numpy as np
 
-paperPath = "paper9.pdf"
+paperPath = ""
 
 print_result = True
 remove_newlines = False
 remove_wordbreaks = True # If remove_newlines is False, setting this to true will merge words split across two lines with a - (also removing that line break)
 print_summary = True
 summary_sentences = 15 # Number of sentences in summary
+write_to_text_file = True
 
 #These default parameters have generally worked on all papers tested, but may need to be tweaked a little
 mainBodyThreshold = 0.2 # Fraction of text on a page a single font size must comprise to be considered part of the main text
@@ -163,3 +164,7 @@ if print_summary:
 	print('------------------------')
 	print('SUMMARY')
 	print(summarize(output, summary_sentences))
+
+if write_to_text_file:
+	with open(paperPath.replace('.pdf', '.txt'), 'wb') as f:
+		f.write(output.encode('utf8'))
