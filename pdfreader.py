@@ -53,7 +53,6 @@ def clusterPage(pageChars, eps=13, columneps = 175):
 	for i in range(len(pageChars)):
 		pageChars[i]['cluster'] = clusters[i]
 
-	#charPoints = np.hstack((charPoints, clusters[np.newaxis].T))
 	clusterlabels = np.unique(clusters)
 	clusterlabels = clusterlabels[clusterlabels != -1]
 
@@ -65,8 +64,6 @@ def clusterPage(pageChars, eps=13, columneps = 175):
 		pointsInCluster = charPoints[cindices]
 
 		clusterCentroid = np.mean(pointsInCluster, axis=0)
-		#clusterCentroid = np.append(np.mean(pointsInCluster, axis=0),cl)
-		#clusterCentroids = np.append(clusterCentroids, np.array([]))
 		clusterCentroids.append((cl, clusterCentroid))
 
 	columns = []
