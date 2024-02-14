@@ -147,7 +147,4 @@ CLASSES
      |  __weakref__
      |      list of weak references to the object
 
-FILE
-    c:\users\mahaw\desktop\pdf reader py\pdfreader.py
-
 
